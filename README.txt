@@ -9,7 +9,7 @@ FRAMEWORKS
 ----------
 In our project we used Bootstrap and jQuery as frameworks.
 We built our project from scratch so no templates were used.
-The filter function in the 'Device' category was also written from scratch but Isotope filtering script was used as refernce model.
+The filter function in the 'Device' category was also written from scratch but Isotope filtering script was used as reference model.
 More details on Isotope here :http://isotope.metafizzy.co/filtering.html.
 
 -------------------
